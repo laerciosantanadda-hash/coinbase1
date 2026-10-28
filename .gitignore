@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+coinbase.db
+coinbase.db-*
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
